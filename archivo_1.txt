@@ -1,0 +1,8 @@
+
+ //DIEGO ALEXANDER MARTINEZ
+ 
+ //primera prueba de subir un archivo
+ 
+ que es un codigo:En la comunicación, el código es un conjunto de elementos que se combinan 
+ siguiendo ciertas reglas y que son semánticamente interpretables, lo cual permite intercambiar información
+ fecha: 25/03/2021
