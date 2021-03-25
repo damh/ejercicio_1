@@ -1,8 +1,17 @@
 
  //DIEGO ALEXANDER MARTINEZ
- 
+ //fecha: 25/03/2021
  //primera prueba de subir un archivo
  
- que es un codigo:En la comunicación, el código es un conjunto de elementos que se combinan 
+ //que es un codigo:En la comunicación, el código es un conjunto de elementos que se combinan 
  siguiendo ciertas reglas y que son semánticamente interpretables, lo cual permite intercambiar información
- fecha: 25/03/2021
+ //ejemplo
+<html>
+	<head>
+		<title>Mi página de ejemplo</title>
+	</head>
+	<body>
+	Aquí va el contenido
+	</body>
+</html>
+ 
